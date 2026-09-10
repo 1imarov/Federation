@@ -311,6 +311,13 @@
       .burger {
         display: flex;
       }
+
+      aside {
+        flex-direction: column;
+      }
+      aside .about img {
+        width: 450px !important;
+      }
     }
 
     /* DEMO CONTENT */
